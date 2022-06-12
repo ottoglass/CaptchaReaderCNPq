@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "D:\\Program Files\\Anaconda3\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.promptToConfigure": false
+}
